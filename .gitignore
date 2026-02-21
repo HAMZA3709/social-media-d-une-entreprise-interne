@@ -1,0 +1,12 @@
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Java / Spring Boot
+backend/target/
+backend/.idea/
+backend/*.iml
+
+# Logs
+*.log

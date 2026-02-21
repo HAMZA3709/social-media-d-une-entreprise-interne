@@ -1,0 +1,44 @@
+.notifications-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.notifications-container h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.notifications-list {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.no-notifications {
+  text-align: center;
+  padding: 40px;
+  color: #666;
+}
+
+.notification-placeholder {
+  text-align: center;
+  padding: 60px 40px;
+}
+
+.notification-icon {
+  font-size: 48px;
+  margin-bottom: 16px;
+}
+
+.notification-placeholder p {
+  color: #333;
+  font-size: 18px;
+  margin: 0 0 8px 0;
+}
+
+.notification-subtext {
+  color: #666 !important;
+  font-size: 14px !important;
+}
+
